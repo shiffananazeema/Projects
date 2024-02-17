@@ -4,3 +4,17 @@ Task Management
 AI Travel Planner
 Portfolio
 
+Chat App - Name not found
+````````
+1. Cool Interface, name
+2. Popular 
+
+Features
+````````
+1. Status with hide/closefriend with how long		
+2. Message and Status with timer 
+3. Replay and ring to wake them
+4. Popular by likes/ hide 
+5. Work even with less network
+6. Location like snapchat
+7. 
